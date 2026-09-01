@@ -1,9 +1,12 @@
-import React from 'react'
+import AboutZenji from "@/components/home/AboutZenji";
+import Hero from "@/components/home/Hero";
+import React from "react";
 
 export default function HomePage() {
   return (
-    <div>
-      HomePage
-    </div>
-  )
+    <>
+      <Hero />
+      <AboutZenji />
+    </>
+  );
 }

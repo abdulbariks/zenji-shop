@@ -1,0 +1,40 @@
+{
+  "topbar": {
+    "announcement": "NEW DROP: BLUE FLAME TEE NOW AVAILABLE • LIMITED STOCK • THE_ORIGIN_DROP COLLECTION LIVE • FREE SHIPPING AUSTRALIA-WIDE ON ORDERS OVER A$150 •"
+  },
+  "navigation": [
+    { "label": "DROP", "href": "#drop" },
+    { "label": "COLLECTION", "href": "#collection" },
+    { "label": "LOOKBOOK", "href": "#lookbook" },
+    { "label": "OUR STORY", "href": "#about" },
+    {
+      "label": "MORE",
+      "href": "#",
+      "children": [
+        { "label": "FAQ", "href": "#faq" },
+        { "label": "CONTACT", "href": "#contact" }
+      ]
+    }
+  ],
+  "hero": {
+    "subtitle": "THE_ORIGIN_DROP // LOADING",
+    "title": "WEAR YOUR STORY",
+    "ctaText": "SHOP THE DROP →",
+    "ctaLink": "/shop",
+    "videoSrc": "/videos/hero.mp4"
+  },
+  "about": {
+    "tagline": "ABOUT // ZENJI",
+    "heading": "BORN FROM THE WARRIOR SPIRIT.",
+    "paragraphs": [
+      "ZENJI began with one belief: what you wear should tell a story.",
+      "Inspired by samurai discipline, anime art and modern street culture, we create premium streetwear for those who choose their own path.",
+      "Every ZENJI piece combines Japanese-inspired artwork, powerful symbolism and oversized silhouettes to express courage, creativity and individuality."
+    ],
+    "quote": "“The warrior within refuses to fade into the crowd.”",
+    "subtext": "FOR THE DREAMERS. FIGHTERS. CREATORS. OUTSIDERS.",
+    "ctaText": "EXPLORE THE COLLECTION →",
+    "ctaLink": "/collection",
+    "imageSrc": "/images/about-zenji.avif"
+  }
+}

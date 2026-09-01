@@ -1,0 +1,68 @@
+{
+  "description": "Wear the Arc. Anime-inspired streetwear for gamers and otaku. Every drop limited. No restocks. Ever.",
+  "socialButtons": [
+    {
+      "platform": "TikTok",
+      "label": "TikTok",
+      "href": "https://tiktok.com",
+      "bgColor": "bg-white text-black hover:bg-zinc-200"
+    },
+    {
+      "platform": "Instagram",
+      "label": "Instagram",
+      "href": "https://instagram.com",
+      "bgColor": "bg-gradient-to-r from-yellow-500 via-pink-500 to-purple-600 text-white"
+    },
+    {
+      "platform": "Facebook",
+      "label": "Facebook",
+      "href": "https://facebook.com",
+      "bgColor": "bg-[#2563EB] text-white hover:bg-blue-700"
+    }
+  ],
+  "columns": [
+    {
+      "title": "DROPS",
+      "links": [
+        { "label": "Home", "href": "/" },
+        { "label": "Drop", "href": "#drop" },
+        { "label": "Collection", "href": "#collection" }
+      ]
+    },
+    {
+      "title": "EXPLORE",
+      "links": [
+        { "label": "Lookbook", "href": "#lookbook" },
+        { "label": "Our Story", "href": "#about" },
+        { "label": "Collection", "href": "#collection" }
+      ]
+    },
+    {
+      "title": "COMMUNITY",
+      "links": [
+        { "label": "TikTok", "href": "https://tiktok.com" },
+        { "label": "Instagram", "href": "https://instagram.com" },
+        { "label": "Facebook", "href": "https://facebook.com" }
+      ]
+    },
+    {
+      "title": "CONTACT",
+      "links": [
+        { "label": "FAQ", "href": "/faq" },
+        { "label": "Review", "href": "/review" },
+        { "label": "Privacy Policy", "href": "/privacy" },
+        { "label": "Terms", "href": "/terms" },
+        { "label": "Help", "href": "/help" },
+        { "label": "Return Policy", "href": "/returns" },
+        { "label": "Contact Us", "href": "/contact" }
+      ]
+    }
+  ],
+  "copyright": "© 2026 ZENJI. All drops are final. No restocks. Ever.",
+  "bottomLinks": [
+    { "label": "Privacy", "href": "/privacy" },
+    { "label": "Terms", "href": "/terms" },
+    { "label": "Cookies", "href": "/cookies" }
+  ],
+  "tagline": "Anime-inspired. Gamer-built. Community-owned."
+}
