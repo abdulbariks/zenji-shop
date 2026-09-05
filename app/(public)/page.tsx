@@ -1,4 +1,5 @@
 import AboutZenji from "@/components/home/AboutZenji";
+import Collection from "@/components/home/Collection";
 import Hero from "@/components/home/Hero";
 import React from "react";
 
@@ -7,6 +8,7 @@ export default function HomePage() {
     <>
       <Hero />
       <AboutZenji />
+      <Collection />
     </>
   );
 }

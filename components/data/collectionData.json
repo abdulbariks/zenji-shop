@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "tagline": "COLLECTION // THE_ORIGIN_DROP",
+    "title": "WILL OF THE SUN TEE",
+    "ctaText": "SHOP WILL OF THE SUN TEE →",
+    "ctaLink": "/shop/will-of-the-sun-tee",
+    "image": "/images/Blue-flame-4.avif"
+  },
+  {
+    "id": 2,
+    "tagline": "COLLECTION // THE_ORIGIN_DROP",
+    "title": "BLUE FLAME TEE",
+    "ctaText": "SHOP BLUE FLAME TEE →",
+    "ctaLink": "/shop/blue-flame-tee",
+    "image": "/images/Demon-blood-4.avif"
+  },
+  {
+    "id": 3,
+    "tagline": "COLLECTION // THE_ORIGIN_DROP",
+    "title": "SHADOW NINJA HOODIE",
+    "ctaText": "SHOP SHADOW NINJA HOODIE →",
+    "ctaLink": "/shop/shadow-ninja-hoodie",
+    "image": "/images/Warrior-spirit-5.avif"
+  },
+  {
+    "id": 4,
+    "tagline": "COLLECTION // THE_ORIGIN_DROP",
+    "title": "SAMURAI SPIRIT OVERSIZED TEE",
+    "ctaText": "SHOP SAMURAI SPIRIT TEE →",
+    "ctaLink": "/shop/samurai-spirit-tee",
+    "image": "/images/Will-of-the-sun-4.avif"
+  }
+]
